@@ -5,3 +5,4 @@ data={"c":a1,"c1":a2}
 df=pd.DataFrame(data)
 
 print(df)
+print(type(data))
